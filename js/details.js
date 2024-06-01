@@ -21,7 +21,7 @@ async function getSingleProduct() {
                         ${product.description}
 						</p>
 						<div class="meta">
-							<input type="number" min="1" size="8" />
+							<input type="number" min="1" size="8" value='1' />
 							<button data-amount='${product.price} data-title="${product.title}"'>Check out</button>
 						</div>
 					</div>

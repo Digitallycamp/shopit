@@ -250,4 +250,11 @@ footer .right ul li a {
 		padding: 120px 32px;
 		grid-template-columns: 1fr;
 	}
+
+	.content {
+		padding: 120px 32px;
+	}
+	.content_wrapper {
+		grid-template-columns: 1fr;
+	}
 }
